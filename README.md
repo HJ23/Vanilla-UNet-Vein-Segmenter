@@ -27,6 +27,7 @@
 
 
 > Learning Curve:
+
 ![download (2)](https://user-images.githubusercontent.com/39130214/73126642-d6eeab80-3fce-11ea-8999-9add48e5d7a6.png)
 
 
