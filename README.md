@@ -3,7 +3,7 @@
 > It is well known that U-Net is network which mainly used in Segmentation tasks. In this application i implemented network from scratch using U-Net paper
 [U-Net paper](https://arxiv.org/abs/1505.04597)
 
-> RITE dataset relatively small that is why data augmentation applied (5 degree rotation for every single image)
+> RITE dataset relatively small that is why data augmentation applied (5 degree rotation for every single image)(256x256x3)
 
 > Here is simplified network architecture
 
@@ -22,6 +22,8 @@
   
   
 > Here is a result from testset:
+![download (1)](https://user-images.githubusercontent.com/39130214/73125569-ad7b5300-3fc1-11ea-932a-ad263872346c.png)
+
 
 
 
