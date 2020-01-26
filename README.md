@@ -1,5 +1,9 @@
 ### Vanilla U-Net based approach for retinal image segmentation
 
+> Even though this was not intended in paper but BatchNorm layers added before every ReLu layer .
+> In new version because of that converging speeded up.
+
+
 > It is well known that U-Net is network which mainly used in Segmentation tasks. In this application i implemented network from scratch using U-Net paper
 [U-Net paper](https://arxiv.org/abs/1505.04597)
 
